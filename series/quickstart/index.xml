@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quickstart on Introduction</title>
+    <link>https://haroon908.github.io/series/quickstart/</link>
+    <description>Recent content in quickstart on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jul 2020 02:04:06 -0500</lastBuildDate><atom:link href="https://haroon908.github.io/series/quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Operating system 64-bit</title>
+      <link>https://haroon908.github.io/blog/configuration/</link>
+      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
+      
+      <guid>https://haroon908.github.io/blog/configuration/</guid>
+      <description>We&amp;rsquo;ll write our own 64-bit x86 operating system kernel from scratch, which will be multiboot2-compliant.
+In the first video, we write our initial boot code and also include a multiboot2 header so that it can be understood by bootloaders.
+This operating system will be primarily written in C, but we&amp;rsquo;ll need some assembly as well for any of the hardware-specific code.
+Important videosVideo 1  Video 2In here, I have setup a basic stack, enable long mode, setup basic paging, and write some C code that prints any text onto the screen.</description>
+    </item>
+    
+  </channel>
+</rss>
